@@ -1,2 +1,2 @@
 # SpeechRecognizing
-## Virtual assistenace using python 
+## Virtual assistance using python 
